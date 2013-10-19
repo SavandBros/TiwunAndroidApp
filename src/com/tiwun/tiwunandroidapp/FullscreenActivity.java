@@ -1,6 +1,7 @@
-package com.tiwun.tiwunandoridapp;
+package com.tiwun.tiwunandroidapp;
 
-import com.tiwun.tiwunandoridapp.util.SystemUiHider;
+import com.tiwun.tiwunandoridapp.R;
+import com.tiwun.tiwunandroidapp.util.SystemUiHider;
 
 import android.annotation.TargetApi;
 import android.app.Activity;

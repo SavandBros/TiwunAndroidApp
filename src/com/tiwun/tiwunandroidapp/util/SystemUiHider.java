@@ -1,4 +1,4 @@
-package com.tiwun.tiwunandoridapp.util;
+package com.tiwun.tiwunandroidapp.util;
 
 import android.app.Activity;
 import android.os.Build;

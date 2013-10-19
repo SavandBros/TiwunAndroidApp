@@ -1,4 +1,4 @@
-package com.tiwun.tiwunandoridapp.util;
+package com.tiwun.tiwunandroidapp.util;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
